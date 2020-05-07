@@ -1,3 +1,11 @@
+//
+//  ConstraintExtension.swift
+//  ConstraintExtension
+//
+//  Created by Roman Croitor on 07/05/2020.
+//  Copyright © 2020 Roman Croitor. All rights reserved.
+//
+
 import UIKit
 
 extension UIColor {
@@ -86,4 +94,3 @@ extension UIView {
     }
     
 }
-
